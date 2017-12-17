@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("hellow world");
+	int num=1;
+	printf("hellow world \n%d",num);
 	return 0;
 }
